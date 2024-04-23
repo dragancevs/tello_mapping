@@ -1,2 +1,3 @@
 # Automatické snímkování objektů dronem DJI Tello pro fotogrammetrii
-dji tello mapping python photogrammetry
+Stránka k bakalášské práci Automatické snímkování objektů dronem DJI Tello pro fotogrammetrii
+
